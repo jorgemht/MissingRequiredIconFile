@@ -23,4 +23,4 @@ I fixed it as follows,
 ![alt text](https://github.com/jorgemht/MissingRequiredIconFile/blob/master/AppIcon%20in%20resources%20info%20plist.PNG)
 
 
-For some strange reason even app icons gave me errors, so I moved them to resources .... and fixed.
+For some strange reason even app icons gave me errors, so I moved them to resources .... and fixed. 
